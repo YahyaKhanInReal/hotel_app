@@ -1,0 +1,59 @@
+class AppImages {
+  static String splashImage = 'assets/images/splash.png';
+  static String signInImage = 'assets/images/signin.png';
+  static String onBoarding1Image = 'assets/images/onBoarding1.jpg';
+  static String onBoarding2Image = 'assets/images/onBoarding2.jpg';
+  static String onBoarding3Image = 'assets/images/onBoarding3.jpg';
+  static String googleImage = 'assets/images/Google.png';
+  static String facebookImage = 'assets/images/Facebook.png';
+  static String appleImage = 'assets/images/Apple.png';
+  static String profile2Image = 'assets/images/profile2.png';
+  static String profile3Image = 'assets/images/profile3.jpg';
+  static String congratsImage = 'assets/images/congrats.png';
+  static String checkMarkImage = 'assets/images/checkMark.png';
+  static String profileImage = 'assets/images/profile.png';
+  static String hotelImg1 = 'assets/images/hotelImg1.png';
+  static String hotelImg2 = 'assets/images/hotelImg2.png';
+  static String hotelImg3 = 'assets/images/hotelImg3.png';
+  static String hotelImg4 = 'assets/images/hotelImg4.png';
+  static String starImage = 'assets/images/star.png';
+  static String homeImage = 'assets/images/home.png';
+  static String apartmentImage = 'assets/images/apartment.png';
+  static String hotelImage = 'assets/images/hotel.png';
+  static String hotelIcon = 'assets/images/hotelIcon.jpg';
+  static String homeCardImage = 'assets/images/homeCards.jpg';
+  static String mapImage = 'assets/images/map.png';
+  static String whatsapp = 'assets/images/whatsapp.png';
+  static String facebook = 'assets/images/facebook.png';
+  static String broadcast = 'assets/images/broadcast.png';
+  static String instagram = 'assets/images/instagram.png';
+  static String searchFilter = 'assets/images/search_filter.svg';
+  static String map2Image = 'assets/images/map2.jpg';
+  static String onBoarding4 = 'assets/images/onboarding4.jpg';
+  static String detailMap = 'assets/images/detailMap.png';
+  static String visaLogo = 'assets/images/visa-logo.png';
+  static String masterLogo = 'assets/images/mastercard1.png';
+  static String addCircle = 'assets/images/add-circle.png';
+  static String bookingAccepted = 'assets/images/booking_accepted.png';
+  static String reviewProfile = 'assets/images/review_profile.png';
+  static String reviewProfile2 = 'assets/images/review_profile2.png';
+  static String homeProfile = 'assets/images/homeProfile.png';
+  static String threeDRotate = 'assets/images/threed_rotate.png';
+  static String hotelLandScape = 'assets/images/hotellandscape.png';
+  static String hotelLandScape2 = 'assets/images/hotellandscape2.png';
+
+  static String masterCardImage = 'assets/images/masterCard.png';
+  static String creditCardImage = 'assets/images/creditCard.png';
+  static String questionMarkImage = 'assets/images/questionMark.png';
+
+  //icons images
+   static String arrowBack = 'assets/images/arrowback.png';
+   static String writeIcon = 'assets/images/write_icon.png';
+   static String notificationIcon = 'assets/images/Notification.png';
+   static String internetIcon = 'assets/images/internet.png';
+   static String shieldIcon = 'assets/images/Shield.png';
+   static String helpIcon = 'assets/images/help.png';
+   static String workIcon = 'assets/images/Work.png';
+   static String checkIcon = 'assets/images/check.png';
+  static String filterIcon = 'assets/images/Filter.png';
+}
